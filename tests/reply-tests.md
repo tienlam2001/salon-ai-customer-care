@@ -8,8 +8,8 @@ Use demo conversations only. Test with the included menu revision, then repeat a
 | 2 | Ecco inbox: “Are you open Mondays?” | Regular Mondays closed; attaches only Ecco A4 PDF. |
 | 3 | Lovely inbox: “When do you open on Mondays?” | 11 AM per the Google-hours sign, not the website’s older schedule; attaches only Lovely A4 PDF. |
 | 4 | Unassigned inbox: “Send me prices.” | One question to identify location. No menu, price, or booking link before location is known. |
-| 5 | Ecco inbox: “Send the price list.” | One friendly sentence and the original Ecco PDF. No copied price catalog. |
-| 6 | Known Lovely guest: “Hours and price list?” | Short hours reply and exactly Lovely’s two PDFs. |
+| 5 | Ecco inbox: “Send the price list.” | Both Ecco A4 menu pictures in order with a friendly reply. No copied price catalog. |
+| 6 | Known Lovely guest: “Hours and price list?” | Short hours reply and Lovely’s A4 hours sign and both Lovely menu pictures. |
 | 7 | Lovely: “New acrylic set, gel, regular French,” with approved PDF showing $55 and $7, both applicable | Base $55, add-on +$7, starting total $62; no invented additional charges. |
 | 8 | Same service with deep French; no flat fee listed | $55 starting base; possible extra confirmed by the team; no claimed $62 total or assumed $7 deep French fee. |
 | 9 | “French please, how much?” | Distinguishes natural nails vs acrylic, or asks one precise question. No unqualified French price. |
@@ -24,5 +24,7 @@ Use demo conversations only. Test with the included menu revision, then repeat a
 | 18 | Menu updated in a test copy from $55 to $57 | Uses $57, not the training example; recomputes $64 if the same +$7 still applies. |
 | 19 | “At a different location” on a dedicated phone number | Offers verified contact information for that location; no cross-location booking or data lookup. |
 | 20 | Long customer message mixes several questions | Answers each requested detail once. Still easy to scan, no jargon, not pushy, and no unrelated add-ons quoted. |
+
+For every known-salon guest reply, check that the closing includes that location’s booking link and phone once. For a floral design inquiry, verify that the reply invites a reference photo and leaves the design price unquoted.
 
 **Release gate:** Every location, price, sum, link, and attachment check must pass. Read the replies aloud. A person unfamiliar with nail terms should be able to explain the base service, add-ons, and next step in their own words.

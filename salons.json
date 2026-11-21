@@ -17,7 +17,11 @@
       "hours_pdf": "assets/casabella-hours-a4.pdf",
       "menu_pdf": "assets/casabella-menu.pdf",
       "public_hours_pdf_url": null,
-      "public_menu_pdf_url": null
+      "public_menu_pdf_url": null,
+      "menu_images": [
+        "assets/casabella-menu-a4-1.png",
+        "assets/casabella-menu-a4-2.png"
+      ]
     },
     "ecco": {
       "name": "Ecco Nails & Spa",
@@ -36,7 +40,11 @@
       "hours_pdf": "assets/ecco-hours-a4.pdf",
       "menu_pdf": "assets/ecco-menu.pdf",
       "public_hours_pdf_url": null,
-      "public_menu_pdf_url": null
+      "public_menu_pdf_url": null,
+      "menu_images": [
+        "assets/ecco-menu-a4-1.png",
+        "assets/ecco-menu-a4-2.png"
+      ]
     },
     "lovely": {
       "name": "Lovely Nail & Spa",
@@ -55,7 +63,11 @@
       "hours_pdf": "assets/lovely-hours-a4.pdf",
       "menu_pdf": "assets/lovely-menu.pdf",
       "public_hours_pdf_url": null,
-      "public_menu_pdf_url": null
+      "public_menu_pdf_url": null,
+      "menu_images": [
+        "assets/lovely-menu-a4-1.png",
+        "assets/lovely-menu-a4-2.png"
+      ]
     }
   },
   "illustration": "assets/classic-vs-deep-french.png"
