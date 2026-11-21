@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="520" viewBox="0 0 840 520" role="img" aria-labelledby="title desc">
+<title id="title">Classic French versus deep French</title><desc id="desc">Two nail diagrams. Classic French has a narrow white tip. Deep French has a white tip that curves farther down the sides.</desc>
+<defs><path id="nail" d="M0 33Q0 0 32 0H73Q105 0 105 33V122Q105 151 77 152H28Q0 152 0 122Z"/><clipPath id="clip"><use href="#nail"/></clipPath></defs>
+<rect width="840" height="520" fill="#fffaf8"/>
+<g fill="#2a2524" text-anchor="middle">
+<text x="420" y="58" font-size="34" font-family="Georgia, serif">Classic French vs. Deep French</text>
+<text x="420" y="90" font-size="17" font-family="Arial, sans-serif">Same idea, different curve</text>
+<path d="M420 119v304" stroke="#dfd0c9"/>
+<g transform="translate(158 136)"><use href="#nail" fill="#e6afab"/><path d="M-2-2H107V25Q75 44 53 44T-2 25Z" fill="#fff" clip-path="url(#clip)"/><use href="#nail" fill="none" stroke="#977b75" stroke-width="2"/></g>
+<g transform="translate(578 136)"><use href="#nail" fill="#e6afab"/><path d="M-2-2H107V86Q87 47 53 45Q19 47-2 86Z" fill="#fff" clip-path="url(#clip)"/><use href="#nail" fill="none" stroke="#977b75" stroke-width="2"/></g>
+<g font-family="Arial,sans-serif"><text x="210" y="342" font-size="23">Classic French</text><text x="630" y="342" font-size="23">Deep French</text>
+<text x="210" y="383" font-size="17">A slim line at the tip.</text><text x="630" y="383" font-size="17">The tip curves farther</text><text x="630" y="408" font-size="17">down the sides.</text>
+<text x="420" y="470" font-size="15" fill="#685653">Illustration only. Shape and design can affect the final price.</text></g></g></svg>

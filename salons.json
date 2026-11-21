@@ -1,0 +1,62 @@
+{
+  "locations": {
+    "casabella": {
+      "name": "Casabella Nails & Spa",
+      "city": "Oviedo, FL",
+      "phone": "(321) 444-6297",
+      "website": "https://casabellanailspaoviedo.com/",
+      "booking_url": "https://abcapp.us/feedback/appointment?appid=v7sc4jT",
+      "regular_hours": {
+        "monday": "11:00 AM–7:00 PM",
+        "tuesday_through_saturday": "9:30 AM–7:00 PM",
+        "sunday": "11:00 AM–5:00 PM",
+        "time_zone": "America/New_York",
+        "source": "Google Business Profile",
+        "checked_on": "2026-11-21"
+      },
+      "hours_pdf": "assets/casabella-hours-a4.pdf",
+      "menu_pdf": "assets/casabella-menu.pdf",
+      "public_hours_pdf_url": null,
+      "public_menu_pdf_url": null
+    },
+    "ecco": {
+      "name": "Ecco Nails & Spa",
+      "city": "Lake Mary, FL",
+      "phone": "(407) 333-0904",
+      "website": "https://ecconailsspa.com/",
+      "booking_url": "https://abcapp.us/feedback/appointment?appid=u2dTpHr",
+      "regular_hours": {
+        "monday": "Closed",
+        "tuesday_through_saturday": "9:30 AM–7:00 PM",
+        "sunday": "11:00 AM–5:00 PM",
+        "time_zone": "America/New_York",
+        "source": "Google Business Profile",
+        "checked_on": "2026-11-21"
+      },
+      "hours_pdf": "assets/ecco-hours-a4.pdf",
+      "menu_pdf": "assets/ecco-menu.pdf",
+      "public_hours_pdf_url": null,
+      "public_menu_pdf_url": null
+    },
+    "lovely": {
+      "name": "Lovely Nail & Spa",
+      "city": "Winter Garden, FL",
+      "phone": "(407) 654-0254",
+      "website": "https://nailslovely.com/",
+      "booking_url": "https://abcapp.us/feedback/appointment?appid=vqD7eIC",
+      "regular_hours": {
+        "monday": "11:00 AM–7:00 PM",
+        "tuesday_through_saturday": "9:30 AM–7:00 PM",
+        "sunday": "11:00 AM–5:00 PM",
+        "time_zone": "America/New_York",
+        "source": "Google Business Profile",
+        "checked_on": "2026-11-21"
+      },
+      "hours_pdf": "assets/lovely-hours-a4.pdf",
+      "menu_pdf": "assets/lovely-menu.pdf",
+      "public_hours_pdf_url": null,
+      "public_menu_pdf_url": null
+    }
+  },
+  "illustration": "assets/classic-vs-deep-french.png"
+}
