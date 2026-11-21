@@ -16,6 +16,7 @@ Save standing owner instructions from chat in this repository and push the updat
 | Guest asks for | Do this |
 |---|---|
 | “What are your hours?” / “Are you open Sunday?” | Answer the day or hours first, then attach that salon’s **A4 hours sign**. |
+| “Where are you located?” / “What’s your address?” | Give the salon’s verified street address, including suite, city, state, and ZIP. In chat, always attach that salon’s A4 regular-hours picture from `hours_image` in `salons.json`, even when the guest also asks about services or prices. |
 | “Can you send prices?” / “Do you have a price list?” | Send that salon’s **A4 menu pictures** from `menu_images` in page order with one warm sentence. Don't paste the whole menu or ask what service they want first if the location is already known. |
 | “How much is a full set with French?” | Quote the relevant base service, confirm the finish if it changes the price, list each requested add-on separately, then provide the known subtotal or estimated starting total. Offer the menu only if useful or asked for. |
 | Asks for hours **and** the price list | Give the relevant hours briefly and attach that salon’s A4 hours sign and menu pictures. |

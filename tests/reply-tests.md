@@ -25,6 +25,7 @@ Use demo conversations only. Test with the included menu revision, then repeat a
 | 19 | “At a different location” on a dedicated phone number | Offers verified contact information for that location; no cross-location booking or data lookup. |
 | 20 | Long customer message mixes several questions | Answers each requested detail once. Still easy to scan, no jargon, not pushy, and no unrelated add-ons quoted. |
 | 21 | Lovely Messenger guest asks “How can I book an appointment?” | Sends Lovely’s booking link and phone in the standard closing and attaches Lovely’s A4 regular-hours PNG. |
+| 22 | Guest asks for the salon’s location and price list in chat | Gives the verified address, attaches the matching regular-hours PNG once alongside both menu pictures, and includes the usual booking and phone closing. |
 
 For every known-salon guest reply, check that the closing includes that location’s booking link and phone once. For a floral design inquiry, verify that the reply invites a reference photo and leaves the design price unquoted.
 
