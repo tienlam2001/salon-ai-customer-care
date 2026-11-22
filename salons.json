@@ -7,12 +7,12 @@
       "website": "https://casabellanailspaoviedo.com/",
       "booking_url": "https://abcapp.us/feedback/appointment?appid=v7sc4jT",
       "regular_hours": {
-        "monday": "11:00 AM–7:00 PM",
-        "tuesday_through_saturday": "9:30 AM–7:00 PM",
-        "sunday": "11:00 AM–5:00 PM",
+        "monday": "11:00 AM\u20137:00 PM",
+        "tuesday_through_saturday": "9:30 AM\u20137:00 PM",
+        "sunday": "11:00 AM\u20135:00 PM",
         "time_zone": "America/New_York",
-        "source": "Google Business Profile",
-        "checked_on": "2026-11-21"
+        "source": "Owner-approved hours PNG",
+        "checked_on": "2026-11-22"
       },
       "hours_pdf": "assets/casabella-hours-a4.pdf",
       "menu_pdf": "assets/casabella-menu.pdf",
@@ -23,18 +23,31 @@
         "assets/casabella-menu-a4-2.png"
       ],
       "hours_image": "assets/casabella-hours-a4.png",
-      "automation_menu_image": "assets/casabella-service-menu-no-promotions.png",
-      "automation_menu_pdf": "assets/casabella-service-menu-no-promotions.pdf",
+      "automation_menu_image": "assets/casabella-menu-a4-1.png",
+      "automation_menu_pdf": null,
       "hours_feed_image": "assets/casabella-hours-feed.png",
       "hours_story_image": "assets/casabella-hours-story.png",
-      "public_automation_menu_image_url": "https://raw.githubusercontent.com/tienlam2001/salon-ai-customer-care/master/assets/casabella-service-menu-no-promotions.png",
-      "public_hours_image_url": "https://raw.githubusercontent.com/tienlam2001/salon-ai-customer-care/master/assets/casabella-hours-a4.png",
+      "public_automation_menu_image_url": null,
+      "public_hours_image_url": null,
       "faq_image_sources": {
-        "1_services": "assets/casabella-service-menu-no-promotions.png",
+        "1_services": "assets/casabella-menu-a4-1.png",
         "2_booking": "assets/casabella-hours-a4.png",
         "3_hours": "assets/casabella-hours-a4.png",
         "4_location": "assets/casabella-hours-a4.png"
-      }
+      },
+      "approved_menu_images": [
+        "assets/casabella-menu-a4-1.png"
+      ],
+      "approved_hours_image": "assets/casabella-hours-a4.png",
+      "delivery_format": "image_attachment",
+      "menu_attachment_update_status": "saved_in_meta",
+      "owner_artwork_approved_on": "2026-11-22",
+      "prohibited_menu_assets": [
+        "assets/casabella-service-menu-no-promotions.png",
+        "assets/casabella-service-menu-no-promotions.pdf"
+      ],
+      "menu_reply_pages": "All Services only",
+      "instagram_native_png_delivery": "not_verified; previous tests delivered text only; manual attachment required"
     },
     "ecco": {
       "name": "Ecco Nails & Spa",
@@ -44,11 +57,11 @@
       "booking_url": "https://abcapp.us/feedback/appointment?appid=u2dTpHr",
       "regular_hours": {
         "monday": "Closed",
-        "tuesday_through_saturday": "9:30 AM–7:00 PM",
-        "sunday": "11:00 AM–5:00 PM",
+        "tuesday_through_saturday": "9:30 AM\u20137:00 PM",
+        "sunday": "11:00 AM\u20135:00 PM",
         "time_zone": "America/New_York",
-        "source": "Google Business Profile",
-        "checked_on": "2026-11-21"
+        "source": "Owner-approved hours PNG",
+        "checked_on": "2026-11-22"
       },
       "hours_pdf": "assets/ecco-hours-a4.pdf",
       "menu_pdf": "assets/ecco-menu.pdf",
@@ -59,18 +72,31 @@
         "assets/ecco-menu-a4-2.png"
       ],
       "hours_image": "assets/ecco-hours-a4.png",
-      "automation_menu_image": "assets/ecco-service-menu-no-promotions.png",
-      "automation_menu_pdf": "assets/ecco-service-menu-no-promotions.pdf",
+      "automation_menu_image": "assets/ecco-menu-a4-1.png",
+      "automation_menu_pdf": null,
       "hours_feed_image": "assets/ecco-hours-feed.png",
       "hours_story_image": "assets/ecco-hours-story.png",
-      "public_automation_menu_image_url": "https://raw.githubusercontent.com/tienlam2001/salon-ai-customer-care/master/assets/ecco-service-menu-no-promotions.png",
-      "public_hours_image_url": "https://raw.githubusercontent.com/tienlam2001/salon-ai-customer-care/master/assets/ecco-hours-a4.png",
+      "public_automation_menu_image_url": null,
+      "public_hours_image_url": null,
       "faq_image_sources": {
-        "1_services": "assets/ecco-service-menu-no-promotions.png",
+        "1_services": "assets/ecco-menu-a4-1.png",
         "2_booking": "assets/ecco-hours-a4.png",
         "3_hours": "assets/ecco-hours-a4.png",
         "4_location": "assets/ecco-hours-a4.png"
-      }
+      },
+      "approved_menu_images": [
+        "assets/ecco-menu-a4-1.png"
+      ],
+      "approved_hours_image": "assets/ecco-hours-a4.png",
+      "delivery_format": "image_attachment",
+      "menu_attachment_update_status": "saved_in_meta",
+      "owner_artwork_approved_on": "2026-11-22",
+      "prohibited_menu_assets": [
+        "assets/ecco-service-menu-no-promotions.png",
+        "assets/ecco-service-menu-no-promotions.pdf"
+      ],
+      "menu_reply_pages": "All Services only",
+      "instagram_native_png_delivery": "not_verified; previous tests delivered text only; manual attachment required"
     },
     "lovely": {
       "name": "Lovely Nail & Spa",
@@ -79,12 +105,12 @@
       "website": "https://nailslovely.com/",
       "booking_url": "https://abcapp.us/feedback/appointment?appid=vqD7eIC",
       "regular_hours": {
-        "monday": "11:00 AM–7:00 PM",
-        "tuesday_through_saturday": "9:30 AM–7:00 PM",
-        "sunday": "11:00 AM–5:00 PM",
+        "monday": "11:00 AM\u20137:00 PM",
+        "tuesday_through_saturday": "9:30 AM\u20137:00 PM",
+        "sunday": "11:00 AM\u20135:00 PM",
         "time_zone": "America/New_York",
-        "source": "Google Business Profile",
-        "checked_on": "2026-11-21"
+        "source": "Owner-approved hours PNG",
+        "checked_on": "2026-11-22"
       },
       "hours_pdf": "assets/lovely-hours-a4.pdf",
       "menu_pdf": "assets/lovely-menu.pdf",
@@ -95,18 +121,31 @@
         "assets/lovely-menu-a4-2.png"
       ],
       "hours_image": "assets/lovely-hours-a4.png",
-      "automation_menu_image": "assets/lovely-service-menu-no-promotions.png",
-      "automation_menu_pdf": "assets/lovely-service-menu-no-promotions.pdf",
+      "automation_menu_image": "assets/lovely-menu-a4-1.png",
+      "automation_menu_pdf": null,
       "hours_feed_image": "assets/lovely-hours-feed.png",
       "hours_story_image": "assets/lovely-hours-story.png",
-      "public_automation_menu_image_url": "https://raw.githubusercontent.com/tienlam2001/salon-ai-customer-care/master/assets/lovely-service-menu-no-promotions.png",
-      "public_hours_image_url": "https://raw.githubusercontent.com/tienlam2001/salon-ai-customer-care/master/assets/lovely-hours-a4.png",
+      "public_automation_menu_image_url": null,
+      "public_hours_image_url": null,
       "faq_image_sources": {
-        "1_services": "assets/lovely-service-menu-no-promotions.png",
+        "1_services": "assets/lovely-menu-a4-1.png",
         "2_booking": "assets/lovely-hours-a4.png",
         "3_hours": "assets/lovely-hours-a4.png",
         "4_location": "assets/lovely-hours-a4.png"
-      }
+      },
+      "approved_menu_images": [
+        "assets/lovely-menu-a4-1.png"
+      ],
+      "approved_hours_image": "assets/lovely-hours-a4.png",
+      "delivery_format": "image_attachment",
+      "menu_attachment_update_status": "saved_in_meta",
+      "owner_artwork_approved_on": "2026-11-22",
+      "prohibited_menu_assets": [
+        "assets/lovely-service-menu-no-promotions.png",
+        "assets/lovely-service-menu-no-promotions.pdf"
+      ],
+      "menu_reply_pages": "All Services only",
+      "instagram_native_png_delivery": "not_verified; previous tests delivered text only; manual attachment required"
     }
   },
   "illustration": "assets/classic-vs-deep-french.png"
