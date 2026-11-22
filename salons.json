@@ -22,7 +22,11 @@
         "assets/casabella-menu-a4-1.png",
         "assets/casabella-menu-a4-2.png"
       ],
-      "hours_image": "assets/casabella-hours-a4.png"
+      "hours_image": "assets/casabella-hours-a4.png",
+      "automation_menu_image": "assets/casabella-service-menu-no-promotions.png",
+      "automation_menu_pdf": "assets/casabella-service-menu-no-promotions.pdf",
+      "hours_feed_image": "assets/casabella-hours-feed.png",
+      "hours_story_image": "assets/casabella-hours-story.png"
     },
     "ecco": {
       "name": "Ecco Nails & Spa",
@@ -46,7 +50,11 @@
         "assets/ecco-menu-a4-1.png",
         "assets/ecco-menu-a4-2.png"
       ],
-      "hours_image": "assets/ecco-hours-a4.png"
+      "hours_image": "assets/ecco-hours-a4.png",
+      "automation_menu_image": "assets/ecco-service-menu-no-promotions.png",
+      "automation_menu_pdf": "assets/ecco-service-menu-no-promotions.pdf",
+      "hours_feed_image": "assets/ecco-hours-feed.png",
+      "hours_story_image": "assets/ecco-hours-story.png"
     },
     "lovely": {
       "name": "Lovely Nail & Spa",
@@ -70,7 +78,11 @@
         "assets/lovely-menu-a4-1.png",
         "assets/lovely-menu-a4-2.png"
       ],
-      "hours_image": "assets/lovely-hours-a4.png"
+      "hours_image": "assets/lovely-hours-a4.png",
+      "automation_menu_image": "assets/lovely-service-menu-no-promotions.png",
+      "automation_menu_pdf": "assets/lovely-service-menu-no-promotions.pdf",
+      "hours_feed_image": "assets/lovely-hours-feed.png",
+      "hours_story_image": "assets/lovely-hours-story.png"
     }
   },
   "illustration": "assets/classic-vs-deep-french.png"

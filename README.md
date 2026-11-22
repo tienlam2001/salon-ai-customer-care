@@ -1,5 +1,13 @@
 # Salon AI customer-care kit
 
+## Shared picture library
+
+This repository is the owner's shared home for generated customer-facing salon pictures. Browse [`assets/`](assets/) and its [file manifest](assets/manifest.json). Each salon has its original two-page menu, A4 hours sign, feed/story hours designs, and a single-image service summary without promotions. `salons.json` maps each salon to its matching files. Keep customer messages and inbox screenshots out of this public library.
+
+The `*-service-menu-no-promotions.png` files are the images currently attached to Meta menu keyword replies. The `*-hours-feed.png` files are attached to hours keyword and comment replies. Updating GitHub alone does not update Meta attachments: replace them in Meta and verify delivery after each artwork change.
+
+See [November 22 delivery checks](tests/2026-11-22-attachment-delivery.md) for live test results and limits.
+
 Drop the `salon-agent/` folder into your repository. This download does not publish anything, change your websites, or configure a live bot.
 
 1. Start with `AGENTS.md`. Paste it into your bot’s system instructions or explicitly load it at startup. A GitHub folder by itself does not make a bot read the files.

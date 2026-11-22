@@ -1,0 +1,181 @@
+{
+  "repository": "https://github.com/tienlam2001/salon-ai-customer-care",
+  "updated_on": "2026-11-22",
+  "assets": [
+    {
+      "path": "assets/casabella-hours-a4.pdf",
+      "bytes": 31388,
+      "sha256": "ebb24b46500dc37ecd1f2ab3c3a6298b33020c6fbf79458594bc056462a85703"
+    },
+    {
+      "path": "assets/casabella-hours-a4.png",
+      "bytes": 103431,
+      "sha256": "aa3c19a4b5be5f055dbc116e2097f123f026b285c02b492bb8b1315a64393f8f"
+    },
+    {
+      "path": "assets/casabella-hours-feed.pdf",
+      "bytes": 3852,
+      "sha256": "14639b6d9b9bd1ebcc42cc58c2117b2eb641cd69297c96ed3d0c2c4cbb25f74c"
+    },
+    {
+      "path": "assets/casabella-hours-feed.png",
+      "bytes": 90029,
+      "sha256": "67f503ac99f07ef2a3604981d2756e0b4c4e5b4d24ee04a271fc05cbd200ebd2"
+    },
+    {
+      "path": "assets/casabella-hours-story.pdf",
+      "bytes": 3852,
+      "sha256": "1b1a786135ef766fa3facd5b22fdbdab540098245894a678fcc7300b03c0e037"
+    },
+    {
+      "path": "assets/casabella-hours-story.png",
+      "bytes": 104299,
+      "sha256": "4f1b0a4b26c7b102ec81ec9087da86ce7ca15456c2ad0d6643d27eecc7f916e7"
+    },
+    {
+      "path": "assets/casabella-menu-a4-1.png",
+      "bytes": 355201,
+      "sha256": "25537ad6e63f0c5297dacd5dbe54d1dabf75cf0bba738e7fc3a29b77feb77a79"
+    },
+    {
+      "path": "assets/casabella-menu-a4-2.png",
+      "bytes": 335748,
+      "sha256": "1bf9f5048450ab8de50c5852fa0a5c0f4a0c82224c90f9cb136f8117d1135e43"
+    },
+    {
+      "path": "assets/casabella-menu.pdf",
+      "bytes": 140205,
+      "sha256": "9ee9a8efd864f47e21d9871e75abfb42156609dd2a179889ae68b45878e61604"
+    },
+    {
+      "path": "assets/casabella-service-menu-no-promotions.pdf",
+      "bytes": 3033,
+      "sha256": "edd9ade8554d8d306a109a4fa7502a2f93c6d3a0f7efebb526f95a14e8a99136"
+    },
+    {
+      "path": "assets/casabella-service-menu-no-promotions.png",
+      "bytes": 239873,
+      "sha256": "d108e701f080099e4a8a8441bba11be807e1b78a0a11f8e09396ac2ca5475d7d"
+    },
+    {
+      "path": "assets/classic-vs-deep-french.png",
+      "bytes": 48086,
+      "sha256": "21385227e2af28900ee5d00dd7fb4b2cf126fcc23a1ed095ac4efe7542cacee4"
+    },
+    {
+      "path": "assets/classic-vs-deep-french.svg",
+      "bytes": 1733,
+      "sha256": "4f1ac23710a678f5bcf9e93230866ec2fa382e489cf0a91768bd91c957065912"
+    },
+    {
+      "path": "assets/ecco-hours-a4.pdf",
+      "bytes": 31375,
+      "sha256": "a84b5b63ceceb298794a3d9d35a69a04683ec59ce9d6ce66f9630e45307cb5b4"
+    },
+    {
+      "path": "assets/ecco-hours-a4.png",
+      "bytes": 95182,
+      "sha256": "37418fc91d8758ae6cc53ae7c7b91bcf8730859afb5600f23c2ce20d2e81d1fe"
+    },
+    {
+      "path": "assets/ecco-hours-feed.pdf",
+      "bytes": 3974,
+      "sha256": "aed35b71408042b3f3cb924ecbc7b9c7cabc761ff04f2d1303797b7b936c0d7a"
+    },
+    {
+      "path": "assets/ecco-hours-feed.png",
+      "bytes": 86886,
+      "sha256": "25314b7460deb9141cdce99f4551a6c77ab7bba87f09c60cebdd007f9795f015"
+    },
+    {
+      "path": "assets/ecco-hours-story.pdf",
+      "bytes": 3974,
+      "sha256": "6e934894208fdfd9cdd9b1d048e3e5ebe60b0f1e8de2b19afad1b2e53af5d2b4"
+    },
+    {
+      "path": "assets/ecco-hours-story.png",
+      "bytes": 100132,
+      "sha256": "dd69b7d1684c8f7cba827e08d33ddbcdcc73b2bc98ba6b562af0040ea18af278"
+    },
+    {
+      "path": "assets/ecco-menu-a4-1.png",
+      "bytes": 428917,
+      "sha256": "908042e157531ff84baa95fbf9669d5f7bcde5783b12ffc25ba886e52d2a253c"
+    },
+    {
+      "path": "assets/ecco-menu-a4-2.png",
+      "bytes": 321766,
+      "sha256": "e7c89dfc5fcbf4ab517168a8937daacc53dc39a4050ff5997dbe1083ee1e0748"
+    },
+    {
+      "path": "assets/ecco-menu.pdf",
+      "bytes": 141163,
+      "sha256": "6999dbf9c5d96b060f482bcdbb2f667a0bde6b33b41956a7e4c04aa6a506cb36"
+    },
+    {
+      "path": "assets/ecco-service-menu-no-promotions.pdf",
+      "bytes": 3041,
+      "sha256": "d50ad25af5d93595b2adaa5a0bc8c958099257aaf1d2e172d66acb7828316950"
+    },
+    {
+      "path": "assets/ecco-service-menu-no-promotions.png",
+      "bytes": 235275,
+      "sha256": "474cf22f084eca438df6b6f03328263e463de9d36b6fdca8c8b70c49bcd888c2"
+    },
+    {
+      "path": "assets/lovely-hours-a4.pdf",
+      "bytes": 31349,
+      "sha256": "7c29961b93f7d4fa97bc484554ded704520ee124c636f9cd0a6e6bca8c7b7d45"
+    },
+    {
+      "path": "assets/lovely-hours-a4.png",
+      "bytes": 95444,
+      "sha256": "6268ccf805a4676f3e6dcf7794ad9e282b5a0316a193a1a98cf89a72499b96f2"
+    },
+    {
+      "path": "assets/lovely-hours-feed.pdf",
+      "bytes": 3840,
+      "sha256": "afeeb5c44963558c92bc02add1b92eb5849c469b82a9206622407f3052ec564a"
+    },
+    {
+      "path": "assets/lovely-hours-feed.png",
+      "bytes": 86158,
+      "sha256": "2ed5150810a995656332c68ff55403d77403a90d0bbded6b47428d89ceea211c"
+    },
+    {
+      "path": "assets/lovely-hours-story.pdf",
+      "bytes": 3840,
+      "sha256": "4d705e57632750961dfbab80fbfd7e982a870b88cfc776bac8e27033b4714d14"
+    },
+    {
+      "path": "assets/lovely-hours-story.png",
+      "bytes": 100489,
+      "sha256": "154bcb0b161f528c48621e7c8e85bbbe9c7e9c9d9c95a861ea96538d08925191"
+    },
+    {
+      "path": "assets/lovely-menu-a4-1.png",
+      "bytes": 344275,
+      "sha256": "96f5fb6d83e4a40be82bc46eb94f78d7c83de376bb3c1bc8f15c7d20c456fcbc"
+    },
+    {
+      "path": "assets/lovely-menu-a4-2.png",
+      "bytes": 294339,
+      "sha256": "fdda5fda4c015a033d38c106d4d38ea730dafa08d2746ef9f83c311323be0048"
+    },
+    {
+      "path": "assets/lovely-menu.pdf",
+      "bytes": 130937,
+      "sha256": "4b0df6c7f73f9007baf9aa1cf4de0e08c4bb3c724010c69a748382de2a413c82"
+    },
+    {
+      "path": "assets/lovely-service-menu-no-promotions.pdf",
+      "bytes": 2953,
+      "sha256": "5ee9241685e06d7c273a8f2fa63d33fee8148c03906c081ab2fd71fd73584d68"
+    },
+    {
+      "path": "assets/lovely-service-menu-no-promotions.png",
+      "bytes": 229628,
+      "sha256": "5ea8d1111d1cde4ee0706a4a8725933f1a315fc985baaa4582143b2640caf724"
+    }
+  ]
+}
