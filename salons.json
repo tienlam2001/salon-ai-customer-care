@@ -26,7 +26,15 @@
       "automation_menu_image": "assets/casabella-service-menu-no-promotions.png",
       "automation_menu_pdf": "assets/casabella-service-menu-no-promotions.pdf",
       "hours_feed_image": "assets/casabella-hours-feed.png",
-      "hours_story_image": "assets/casabella-hours-story.png"
+      "hours_story_image": "assets/casabella-hours-story.png",
+      "public_automation_menu_image_url": "https://raw.githubusercontent.com/tienlam2001/salon-ai-customer-care/master/assets/casabella-service-menu-no-promotions.png",
+      "public_hours_image_url": "https://raw.githubusercontent.com/tienlam2001/salon-ai-customer-care/master/assets/casabella-hours-a4.png",
+      "faq_image_sources": {
+        "1_services": "assets/casabella-service-menu-no-promotions.png",
+        "2_booking": "assets/casabella-hours-a4.png",
+        "3_hours": "assets/casabella-hours-a4.png",
+        "4_location": "assets/casabella-hours-a4.png"
+      }
     },
     "ecco": {
       "name": "Ecco Nails & Spa",
@@ -54,7 +62,15 @@
       "automation_menu_image": "assets/ecco-service-menu-no-promotions.png",
       "automation_menu_pdf": "assets/ecco-service-menu-no-promotions.pdf",
       "hours_feed_image": "assets/ecco-hours-feed.png",
-      "hours_story_image": "assets/ecco-hours-story.png"
+      "hours_story_image": "assets/ecco-hours-story.png",
+      "public_automation_menu_image_url": "https://raw.githubusercontent.com/tienlam2001/salon-ai-customer-care/master/assets/ecco-service-menu-no-promotions.png",
+      "public_hours_image_url": "https://raw.githubusercontent.com/tienlam2001/salon-ai-customer-care/master/assets/ecco-hours-a4.png",
+      "faq_image_sources": {
+        "1_services": "assets/ecco-service-menu-no-promotions.png",
+        "2_booking": "assets/ecco-hours-a4.png",
+        "3_hours": "assets/ecco-hours-a4.png",
+        "4_location": "assets/ecco-hours-a4.png"
+      }
     },
     "lovely": {
       "name": "Lovely Nail & Spa",
@@ -82,7 +98,15 @@
       "automation_menu_image": "assets/lovely-service-menu-no-promotions.png",
       "automation_menu_pdf": "assets/lovely-service-menu-no-promotions.pdf",
       "hours_feed_image": "assets/lovely-hours-feed.png",
-      "hours_story_image": "assets/lovely-hours-story.png"
+      "hours_story_image": "assets/lovely-hours-story.png",
+      "public_automation_menu_image_url": "https://raw.githubusercontent.com/tienlam2001/salon-ai-customer-care/master/assets/lovely-service-menu-no-promotions.png",
+      "public_hours_image_url": "https://raw.githubusercontent.com/tienlam2001/salon-ai-customer-care/master/assets/lovely-hours-a4.png",
+      "faq_image_sources": {
+        "1_services": "assets/lovely-service-menu-no-promotions.png",
+        "2_booking": "assets/lovely-hours-a4.png",
+        "3_hours": "assets/lovely-hours-a4.png",
+        "4_location": "assets/lovely-hours-a4.png"
+      }
     }
   },
   "illustration": "assets/classic-vs-deep-french.png"

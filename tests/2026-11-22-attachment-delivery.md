@@ -19,3 +19,19 @@ Instagram customer-side delivery remains unverified: the browser was signed into
 After login approval, the browser was signed into Ecco (`ecconailsspa_fl`). Sending `menu` to Casabella triggered the expected reply text, but no image appeared in the Instagram conversation. This is a failed attachment-delivery test, not a pass. Both salons' keyword responders then answered one another because the response itself contained `menu`. Ecco's service-menu reply was temporarily paused, reworded to remove trigger terms, and re-enabled on both channels; the saved change was verified. No hours test was sent in this session.
 
 Remaining: repeat menu and hours tests for all three salons from a personal/test account with no salon automations. Do not infer Instagram attachment delivery from Messenger success or enabled settings.
+
+## GitHub picture-link fallback — verified
+
+The owner authorized public GitHub picture links for Instagram and required all pictures to come from this repository. All four Instagram FAQ answers were reopened and verified for each salon: Question 1 links to its service summary; Questions 2–4 link to its A4 hours picture. Matching A4 pictures were attached to the Messenger booking, hours and location FAQs.
+
+| Salon | Instagram menu link | Instagram hours link | Instagram booking answer with A4 link |
+|---|---|---|---|
+| Casabella | Delivered | Delivered | Delivered |
+| Lovely | Delivered | Delivered | Delivered |
+| Ecco | Delivered | Delivered | Delivered |
+
+Each of the nine public PNG URLs (three service summaries, three feed hours pictures, three A4 hours pictures) returned HTTP 200 with image/png content without authentication. Delivered messages exposed clickable URLs. This verifies link delivery and public file access; it does not claim native image attachments now work on Instagram.
+
+Testing used the owner's salon accounts. The sender's message automations were temporarily paused to isolate responses and were restored afterward. Early testing exposed reciprocal keyword replies, including a promotion trigger from a filename containing “promotions”; do not cross-test two enabled business responders.
+
+Observed limitation: exact FAQ questions can also match keyword rules, producing two answers. Both hours answers carried the correct salon's repository image link. Comment-to-message links were configured but not live-tested with public comments.

@@ -2,6 +2,8 @@
 
 ## Owner updates — November 22, 2026
 
+- Only use pictures from this repository for all salon questions. Work from the cloned repository folder. For the four Meta FAQs, use the salon's repository service-summary picture for Question 1 and its `hours_image` A4 picture for Questions 2 (booking), 3 (hours), and 4 (location). Messenger sends attachments; Instagram uses verified public GitHub picture links because native automatic image delivery failed. Keep booking links and phone numbers in the booking answer.
+
 - Use this repository as the shared library for generated salon pictures. Add new customer-facing artwork under `assets/`, update `assets/manifest.json`, and push it. Keep inbox screenshots and individual customer conversations out of this public repository.
 - Regular/classic adult manicures are $25 at all three salons. This override does not change gel, specialty, or children's manicures. Do not announce the price change in unrelated replies.
 - For automated promotion or discount inquiries, acknowledge only: “Thank you for reaching out! 😊 Our team will be happy to check the latest promotions and discounts for you and get back to you. We appreciate your patience! 💕” Leave offer details to the owner; do not automatically advertise combo savings or other discounts.
